@@ -1,0 +1,6 @@
+{
+  "name": "MatchaNova — The Art of Matcha",
+  "description": "From Ancient Traditions To Your Modern Lifestyle, Redefine Your Daily Wellness with MatchaNova's premium ceremonial matcha, kits, drinks, and culinary treats.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
